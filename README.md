@@ -7,5 +7,3 @@ The script can be found at the [Fiji folder](../../tree/main/Fiji).
 The output of the Fiji script is then used by a Matlab script to do teh following:
 1. Simulate the distribution of dopant atoms within the core of the nanocrystal and on its surface
 2. The distribution of number of dopants per particle for each particle size is extracted.
-
-The dcript can be found
