@@ -7,7 +7,7 @@ For the processing and analysis of the STEM-EDS data we wrote a Fiji script that
 
 The script can be found at the [Fiji folder](../../tree/main/Fiji). 
 
-The output of the Fiji script is then used by a MATLAB script to do the following:
+The output of the Fiji script is then used by MATLAB scripts to do the following:
 1. Simulate the distribution of dopant atoms within the core of the nanocrystal and on its surface
 2. The distribution of number of dopants per particle for each particle size is extracted. 
 
